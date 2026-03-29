@@ -1,3 +1,3 @@
 # delta-demo
 My new repository.
-This is dummy repository.
+This is new repository.
